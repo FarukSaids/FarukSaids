@@ -1,4 +1,4 @@
-[![MasterHead](https://e0.pxfuel.com/wallpapers/344/306/desktop-wallpaper-javascript-code.jpg)
+[![MasterHead](https://wallpaper.dog/large/5558177.jpg)
 <h1 align="center">Hi 👋, I'm Said Faruk</h1>
 <h3 align="center">A Full-Stack developer from Turkey.</h3>
 
