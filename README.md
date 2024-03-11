@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/1020/131/desktop-wallpaper-developer-backgrounds-posted-by-ryan-johnson-front-end-developer.jpg)
+[![MasterHead]([https://e1.pxfuel.com/desktop-wallpaper/1020/131/desktop-wallpaper-developer-backgrounds-posted-by-ryan-johnson-front-end-developer.jpg](https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg))
 <h1 align="center">Hi 👋, I'm Said Faruk</h1>
 <h3 align="center">A Full-Stack developer from Turkey.</h3>
 
