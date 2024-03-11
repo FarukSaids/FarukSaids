@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/300/702/343/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg)
+[![MasterHead](https://e0.pxfuel.com/wallpapers/344/306/desktop-wallpaper-javascript-code.jpg)
 <h1 align="center">Hi 👋, I'm Said Faruk</h1>
 <h3 align="center">A Full-Stack developer from Turkey.</h3>
 
