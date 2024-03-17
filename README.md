@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Said Faruk</h1>
 <h3 align="center">A Full-Stack developer from Turkey.</h3>
-
+<img align ="right" alt="Coding" with="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/said-faruk-4a939917b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="said-faruk-4a939917b/" height="30" width="40" /></a>
